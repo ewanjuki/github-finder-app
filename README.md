@@ -1,1 +1,1 @@
-React App to search Github users and display their info.
+App to search Github users and display their info. https://github-finder-app-ewanjuki.vercel.app/
